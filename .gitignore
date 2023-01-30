@@ -1,4 +1,4 @@
 obj
-Exercise1.csproj
+*.csproj
 .vscode
 bin
