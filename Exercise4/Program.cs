@@ -1,4 +1,6 @@
 ﻿// Задача 8 (#4): Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+using System;
+
 Console.Clear();
 Console.WriteLine("Напишите число");
 int N = int.Parse(Console.ReadLine());
