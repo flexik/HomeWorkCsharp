@@ -1,0 +1,15 @@
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\bin\Debug\net6.0\Exercise19(sem6).exe
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\bin\Debug\net6.0\Exercise19(sem6).deps.json
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\bin\Debug\net6.0\Exercise19(sem6).runtimeconfig.json
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\bin\Debug\net6.0\Exercise19(sem6).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\bin\Debug\net6.0\Exercise19(sem6).pdb
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\Exercise19(sem6).csproj.AssemblyReference.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\Exercise19(sem6).GeneratedMSBuildEditorConfig.editorconfig
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\Exercise19(sem6).AssemblyInfoInputs.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\Exercise19(sem6).AssemblyInfo.cs
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\Exercise19(sem6).csproj.CoreCompileInputs.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\Exercise19(sem6).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\refint\Exercise19(sem6).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\Exercise19(sem6).pdb
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\Exercise19(sem6).genruntimeconfig.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise19(sem6)\obj\Debug\net6.0\ref\Exercise19(sem6).dll

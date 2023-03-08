@@ -1,0 +1,15 @@
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\bin\Debug\net6.0\Exercise28(sem8).exe
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\bin\Debug\net6.0\Exercise28(sem8).deps.json
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\bin\Debug\net6.0\Exercise28(sem8).runtimeconfig.json
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\bin\Debug\net6.0\Exercise28(sem8).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\bin\Debug\net6.0\Exercise28(sem8).pdb
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\Exercise28(sem8).csproj.AssemblyReference.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\Exercise28(sem8).GeneratedMSBuildEditorConfig.editorconfig
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\Exercise28(sem8).AssemblyInfoInputs.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\Exercise28(sem8).AssemblyInfo.cs
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\Exercise28(sem8).csproj.CoreCompileInputs.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\Exercise28(sem8).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\refint\Exercise28(sem8).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\Exercise28(sem8).pdb
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\Exercise28(sem8).genruntimeconfig.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise28(sem8)\obj\Debug\net6.0\ref\Exercise28(sem8).dll

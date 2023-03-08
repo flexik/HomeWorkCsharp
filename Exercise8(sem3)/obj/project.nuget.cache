@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUl4CGwMPPytWEncUm+pY+ApoUh5nLbRda/MhFJelmc8xzD3g9K1+5gIcgNDQYgjP88a35rJwqLFHSMubF+68g==",
+  "success": true,
+  "projectFilePath": "H:\\Mobile_Developper\\Examples_Csharp\\Seminar_dz\\Exercise8(sem3)\\Exercise8(sem3).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flex!k\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\flex!k\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\flex!k\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
+    "C:\\Users\\flex!k\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\flex!k\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\flex!k\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\flex!k\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercise20(sem6)/1.0.0": {
+        "runtime": {
+          "Exercise20(sem6).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise20(sem6)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

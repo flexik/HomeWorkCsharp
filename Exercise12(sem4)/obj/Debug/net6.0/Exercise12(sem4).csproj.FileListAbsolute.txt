@@ -1,0 +1,15 @@
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\Exercise12(sem4).csproj.AssemblyReference.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\Exercise12(sem4).GeneratedMSBuildEditorConfig.editorconfig
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\Exercise12(sem4).AssemblyInfoInputs.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\Exercise12(sem4).AssemblyInfo.cs
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\Exercise12(sem4).csproj.CoreCompileInputs.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\bin\Debug\net6.0\Exercise12(sem4).exe
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\bin\Debug\net6.0\Exercise12(sem4).deps.json
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\bin\Debug\net6.0\Exercise12(sem4).runtimeconfig.json
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\bin\Debug\net6.0\Exercise12(sem4).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\bin\Debug\net6.0\Exercise12(sem4).pdb
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\Exercise12(sem4).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\refint\Exercise12(sem4).dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\Exercise12(sem4).pdb
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\Exercise12(sem4).genruntimeconfig.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\Exercise12(sem4)\obj\Debug\net6.0\ref\Exercise12(sem4).dll
