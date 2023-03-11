@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FinalHomeWork#3/1.0.0": {
+        "runtime": {
+          "FinalHomeWork#3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalHomeWork#3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

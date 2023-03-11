@@ -1,0 +1,15 @@
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\FinalHomeWork.csproj.AssemblyReference.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\FinalHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\FinalHomeWork.AssemblyInfoInputs.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\FinalHomeWork.AssemblyInfo.cs
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\FinalHomeWork.csproj.CoreCompileInputs.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\bin\Debug\net7.0\FinalHomeWork.exe
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\bin\Debug\net7.0\FinalHomeWork.deps.json
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\bin\Debug\net7.0\FinalHomeWork.runtimeconfig.json
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\bin\Debug\net7.0\FinalHomeWork.dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\bin\Debug\net7.0\FinalHomeWork.pdb
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\FinalHomeWork.dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\refint\FinalHomeWork.dll
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\FinalHomeWork.pdb
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\FinalHomeWork.genruntimeconfig.cache
+H:\Mobile_Developper\repos\Examples_Csharp\Seminar_dz\FinalHomeWork\obj\Debug\net7.0\ref\FinalHomeWork.dll
